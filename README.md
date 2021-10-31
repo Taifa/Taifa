@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Taifa
-- 👀 I’m interested in ... Web Development (Front-End & Back-End)
-- 🌱 I’m currently learning ... JavaScript and a few JS frameworks.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... taifalane@gmail.com
+## Hey there, I'm Taifa 👋
+<a href = "https://www.linkedin.com/in/taifa-lane-916010188/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href = "https://www.sololearn.com/profile/7090968"> <img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"> </a>
+<a href = "https://leetcode.com/TaifaLane/"> <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 
-<!---
-Taifa/Taifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Aspiring Frontend Engineer Majoring in CS
+- 👀 Looking to build my experience and possibly get an internship.
+- 👥 Looking to collaborate with others.
+- ✍️ I'm currently majoring in CS @ CWU.
+- ✉️ You can reach me @ taifalane@gmail.com
+## Languages:
+<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+## Stats:
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=taifa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
