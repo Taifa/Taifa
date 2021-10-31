@@ -1,6 +1,6 @@
 ## Hey there, I'm Taifa 👋
-<a href = "https://www.linkedin.com/in/taifa-lane-916010188/"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href = "https://www.sololearn.com/profile/7090968"> <img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"> </a>
-<a href = "https://leetcode.com/TaifaLane/"> <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
+<a href = "https://www.linkedin.com/in/taifa-lane-916010188/" target = "_blank"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href = "https://www.sololearn.com/profile/7090968" target = "_blank"> <img src = "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"> </a>
+<a href = "https://leetcode.com/TaifaLane/" target = "_blank"> <img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"> </a>
 
 ## Aspiring Frontend Engineer Majoring in CS
 - 👀 Looking to build my experience and possibly get an internship.
